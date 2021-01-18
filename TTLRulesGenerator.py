@@ -1,5 +1,5 @@
 import json
-import numpy as np
+#import numpy as np
 
 # !!! interessante produzir uma forma de criar estes vetores automaticamente !!! (boto3?)
 

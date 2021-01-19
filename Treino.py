@@ -3,6 +3,5 @@ import json
 
 x=10
 print(x)
-for i in 8:
-    print (x+i"\n")
-    print("teste")
+for i in range (8):
+    print ("\n %.2f",x+i)
